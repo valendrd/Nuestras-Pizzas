@@ -20,10 +20,9 @@
 <div class="content">
     
 <?php
-  
 session_start();
-$_SESSION['logueado'];
-if ($_SESSION['logueado']){
+$_SESSION['login'];
+if ($_SESSION['login']){
     echo "BIenvenido/a  " .  $_SESSION['username'];
     echo "<br>";
     echo "Horario de conecxion  " . $_SESSION['time'];
