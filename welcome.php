@@ -13,7 +13,7 @@
 
 <body>
     <div>
-        <h1>area privada</h1>
+        <h1>Panel de Administrador</h1>
     </div>
     <nav class="navtop">
     <a href="logout.php">logout</a>
