@@ -35,4 +35,4 @@ class Db
         $this->connection = null;
     }
 }
-?>a¡a
+?>
